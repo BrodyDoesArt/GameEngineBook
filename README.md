@@ -36,4 +36,5 @@ The book is released under the Creative Commons BY-SA license. By contributing t
 - Dalai Felinto
 - Momel15
 - alabd14313
+- BrodyDoesArt
 - You!
